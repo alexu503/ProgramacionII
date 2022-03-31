@@ -1,0 +1,7 @@
+C:\Users\alexu\source\repos\CodigoDeitel\CodigoDeitel\bin\Debug\CodigoDeitel.exe.config
+C:\Users\alexu\source\repos\CodigoDeitel\CodigoDeitel\bin\Debug\CodigoDeitel.exe
+C:\Users\alexu\source\repos\CodigoDeitel\CodigoDeitel\bin\Debug\CodigoDeitel.pdb
+C:\Users\alexu\source\repos\CodigoDeitel\CodigoDeitel\obj\Debug\CodigoDeitel.csproj.AssemblyReference.cache
+C:\Users\alexu\source\repos\CodigoDeitel\CodigoDeitel\obj\Debug\CodigoDeitel.csproj.CoreCompileInputs.cache
+C:\Users\alexu\source\repos\CodigoDeitel\CodigoDeitel\obj\Debug\CodigoDeitel.exe
+C:\Users\alexu\source\repos\CodigoDeitel\CodigoDeitel\obj\Debug\CodigoDeitel.pdb
