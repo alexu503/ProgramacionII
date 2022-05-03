@@ -1,0 +1,15 @@
+C:\Users\alexu\source\repos\Tareas\DesgloseDeBilletes\DesgloseDeBilletes\bin\Debug\net6.0\DesgloseDeBilletes.exe
+C:\Users\alexu\source\repos\Tareas\DesgloseDeBilletes\DesgloseDeBilletes\bin\Debug\net6.0\DesgloseDeBilletes.deps.json
+C:\Users\alexu\source\repos\Tareas\DesgloseDeBilletes\DesgloseDeBilletes\bin\Debug\net6.0\DesgloseDeBilletes.runtimeconfig.json
+C:\Users\alexu\source\repos\Tareas\DesgloseDeBilletes\DesgloseDeBilletes\bin\Debug\net6.0\DesgloseDeBilletes.dll
+C:\Users\alexu\source\repos\Tareas\DesgloseDeBilletes\DesgloseDeBilletes\bin\Debug\net6.0\DesgloseDeBilletes.pdb
+C:\Users\alexu\source\repos\Tareas\DesgloseDeBilletes\DesgloseDeBilletes\obj\Debug\net6.0\DesgloseDeBilletes.csproj.AssemblyReference.cache
+C:\Users\alexu\source\repos\Tareas\DesgloseDeBilletes\DesgloseDeBilletes\obj\Debug\net6.0\DesgloseDeBilletes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexu\source\repos\Tareas\DesgloseDeBilletes\DesgloseDeBilletes\obj\Debug\net6.0\DesgloseDeBilletes.AssemblyInfoInputs.cache
+C:\Users\alexu\source\repos\Tareas\DesgloseDeBilletes\DesgloseDeBilletes\obj\Debug\net6.0\DesgloseDeBilletes.AssemblyInfo.cs
+C:\Users\alexu\source\repos\Tareas\DesgloseDeBilletes\DesgloseDeBilletes\obj\Debug\net6.0\DesgloseDeBilletes.csproj.CoreCompileInputs.cache
+C:\Users\alexu\source\repos\Tareas\DesgloseDeBilletes\DesgloseDeBilletes\obj\Debug\net6.0\DesgloseDeBilletes.dll
+C:\Users\alexu\source\repos\Tareas\DesgloseDeBilletes\DesgloseDeBilletes\obj\Debug\net6.0\refint\DesgloseDeBilletes.dll
+C:\Users\alexu\source\repos\Tareas\DesgloseDeBilletes\DesgloseDeBilletes\obj\Debug\net6.0\DesgloseDeBilletes.pdb
+C:\Users\alexu\source\repos\Tareas\DesgloseDeBilletes\DesgloseDeBilletes\obj\Debug\net6.0\DesgloseDeBilletes.genruntimeconfig.cache
+C:\Users\alexu\source\repos\Tareas\DesgloseDeBilletes\DesgloseDeBilletes\obj\Debug\net6.0\ref\DesgloseDeBilletes.dll
