@@ -1,0 +1,11 @@
+C:\Users\alexu\Documents\ProgrammingHomework\SistemaDeNotas\SistemaDeNotas\bin\Debug\SistemaDeNotas.exe.config
+C:\Users\alexu\Documents\ProgrammingHomework\SistemaDeNotas\SistemaDeNotas\bin\Debug\SistemaDeNotas.exe
+C:\Users\alexu\Documents\ProgrammingHomework\SistemaDeNotas\SistemaDeNotas\bin\Debug\SistemaDeNotas.pdb
+C:\Users\alexu\Documents\ProgrammingHomework\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.csproj.AssemblyReference.cache
+C:\Users\alexu\Documents\ProgrammingHomework\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexu\Documents\ProgrammingHomework\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.Matricula.resources
+C:\Users\alexu\Documents\ProgrammingHomework\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.Properties.Resources.resources
+C:\Users\alexu\Documents\ProgrammingHomework\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.csproj.GenerateResource.cache
+C:\Users\alexu\Documents\ProgrammingHomework\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\alexu\Documents\ProgrammingHomework\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.exe
+C:\Users\alexu\Documents\ProgrammingHomework\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.pdb

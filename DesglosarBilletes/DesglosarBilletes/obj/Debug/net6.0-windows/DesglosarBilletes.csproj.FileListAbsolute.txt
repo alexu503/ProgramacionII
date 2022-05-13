@@ -1,0 +1,17 @@
+C:\Users\alexu\Documents\Universidad\Ciclo 3\Programación II\ProgramacionII\DesglosarBilletes\DesglosarBilletes\bin\Debug\net6.0-windows\DesglosarBilletes.exe
+C:\Users\alexu\Documents\Universidad\Ciclo 3\Programación II\ProgramacionII\DesglosarBilletes\DesglosarBilletes\bin\Debug\net6.0-windows\DesglosarBilletes.deps.json
+C:\Users\alexu\Documents\Universidad\Ciclo 3\Programación II\ProgramacionII\DesglosarBilletes\DesglosarBilletes\bin\Debug\net6.0-windows\DesglosarBilletes.runtimeconfig.json
+C:\Users\alexu\Documents\Universidad\Ciclo 3\Programación II\ProgramacionII\DesglosarBilletes\DesglosarBilletes\bin\Debug\net6.0-windows\DesglosarBilletes.dll
+C:\Users\alexu\Documents\Universidad\Ciclo 3\Programación II\ProgramacionII\DesglosarBilletes\DesglosarBilletes\bin\Debug\net6.0-windows\DesglosarBilletes.pdb
+C:\Users\alexu\Documents\Universidad\Ciclo 3\Programación II\ProgramacionII\DesglosarBilletes\DesglosarBilletes\obj\Debug\net6.0-windows\DesglosarBilletes.csproj.AssemblyReference.cache
+C:\Users\alexu\Documents\Universidad\Ciclo 3\Programación II\ProgramacionII\DesglosarBilletes\DesglosarBilletes\obj\Debug\net6.0-windows\DesglosarBilletes.Form1.resources
+C:\Users\alexu\Documents\Universidad\Ciclo 3\Programación II\ProgramacionII\DesglosarBilletes\DesglosarBilletes\obj\Debug\net6.0-windows\DesglosarBilletes.csproj.GenerateResource.cache
+C:\Users\alexu\Documents\Universidad\Ciclo 3\Programación II\ProgramacionII\DesglosarBilletes\DesglosarBilletes\obj\Debug\net6.0-windows\DesglosarBilletes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexu\Documents\Universidad\Ciclo 3\Programación II\ProgramacionII\DesglosarBilletes\DesglosarBilletes\obj\Debug\net6.0-windows\DesglosarBilletes.AssemblyInfoInputs.cache
+C:\Users\alexu\Documents\Universidad\Ciclo 3\Programación II\ProgramacionII\DesglosarBilletes\DesglosarBilletes\obj\Debug\net6.0-windows\DesglosarBilletes.AssemblyInfo.cs
+C:\Users\alexu\Documents\Universidad\Ciclo 3\Programación II\ProgramacionII\DesglosarBilletes\DesglosarBilletes\obj\Debug\net6.0-windows\DesglosarBilletes.csproj.CoreCompileInputs.cache
+C:\Users\alexu\Documents\Universidad\Ciclo 3\Programación II\ProgramacionII\DesglosarBilletes\DesglosarBilletes\obj\Debug\net6.0-windows\DesglosarBilletes.dll
+C:\Users\alexu\Documents\Universidad\Ciclo 3\Programación II\ProgramacionII\DesglosarBilletes\DesglosarBilletes\obj\Debug\net6.0-windows\refint\DesglosarBilletes.dll
+C:\Users\alexu\Documents\Universidad\Ciclo 3\Programación II\ProgramacionII\DesglosarBilletes\DesglosarBilletes\obj\Debug\net6.0-windows\DesglosarBilletes.pdb
+C:\Users\alexu\Documents\Universidad\Ciclo 3\Programación II\ProgramacionII\DesglosarBilletes\DesglosarBilletes\obj\Debug\net6.0-windows\DesglosarBilletes.genruntimeconfig.cache
+C:\Users\alexu\Documents\Universidad\Ciclo 3\Programación II\ProgramacionII\DesglosarBilletes\DesglosarBilletes\obj\Debug\net6.0-windows\ref\DesglosarBilletes.dll
